@@ -3125,3 +3125,24 @@ footer .copyright span:last-child::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+/* Imagen del modal Dev Challenge 5 */
+#modal-07 .media {
+	padding: 3rem 3.6rem 1.2rem;
+}
+
+#modal-07 .media img {
+	display: block;
+	width: 100%;
+	height: auto;
+	border-radius: 4px;
+}
+
+#modal-07 .description-box {
+	padding: 0 30px 20px;
+	/* alinea el texto con la imagen */
+}
+
+#modal-07 .link-box {
+	padding: 0 30px 30px;
+}
